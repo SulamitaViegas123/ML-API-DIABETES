@@ -1,3 +1,8 @@
+2TDSQ - Integrantes: 
+RM560914 - Lucas Almeida
+RM561089 - Matteus Viegas
+RM561090 - Sulamita Viegas
+
 # API de Machine Learning
 
 ## 📌 Descrição
