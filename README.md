@@ -40,6 +40,13 @@ Resposta esperada:
 
 ## ☁️Deploy na nuvem
 
-Aplicação usada: 
+Aplicação usada: OCI
+Devido a limitações de recursos da instância gratuita (memória insuficiente para instalação do Docker), o deploy foi testado parcialmente.
 
-URL da API:
+A API pode ser executada localmente com:
+pip install -r requirements.txt
+python app.py
+
+E via Docker com:
+docker build -t ml-api .
+docker run -p 5000:5000 ml-api
