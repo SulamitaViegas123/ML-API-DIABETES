@@ -1,8 +1,3 @@
-2TDSQ - Integrantes: 
-RM560914 - Lucas Almeida
-RM561089 - Matteus Viegas
-RM561090 - Sulamita Viegas
-
 # API de Machine Learning
 
 ## 📌 Descrição
@@ -55,3 +50,15 @@ python app.py
 E via Docker com:
 docker build -t ml-api .
 docker run -p 5000:5000 ml-api
+
+---
+
+# 👥 Integrantes
+
+| RM | Nome |
+|---|---|
+| RM560914 | Lucas Siqueira de Almeida |
+| RM561090 | Matteus Viegas dos Santos |
+| RM561089 | Sulamita Viegas dos Santos |
+
+---
